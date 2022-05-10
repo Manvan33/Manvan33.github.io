@@ -8,4 +8,6 @@ _Somewhat well written tutorials_
 ### Solutions
 
 _Solutions to problems I've encountered, and that I will encounter in the future_
+
 Sometimes linked to scripts in [gists](https://gist.github.com/Manvan33).
+
