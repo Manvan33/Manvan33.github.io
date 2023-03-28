@@ -1,4 +1,4 @@
-baseURL = 'https://manvan33.github.io'
+baseURL = 'https://blog.manvan.fr'
 languageCode = 'fr-fr'
 title = "Ivan's blog"
 theme = 'PaperMod'
