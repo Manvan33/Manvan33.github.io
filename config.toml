@@ -1,3 +1,4 @@
 languageCode = 'fr-fr'
 title = "Ivan's blog"
 theme = 'PaperMod'
+baseURL = "https://blog.manvan.fr/"
