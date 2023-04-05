@@ -8,6 +8,8 @@ description: "Les progrès récents de l'intelligence artificielle sont trop imp
 summary: "Les progrès récents de l'intelligence artificielle sont trop importants pour être ignorés."
 ---
 
+![l'IA détruit l'humanité](./revolution.jpg)
+Image générée par Bing
 
 ## Une révolution
 __juin 2021 :__ je découvre l'annonce de GitHub Copilot par Microsoft. Cet assistant innovant est capable d'analyser et de comprendre le code informatique qu'on écrit et de l'écrire avec nous, voire à notre place. J'ai senti que l'intelligence artificielle allait enfin m'intéresser. Ce copilote est depuis devenu mon binôme dans la majorité du code que j'écris. Il mériterait d'être crédité en co-auteur de mon GitHub.
