@@ -8,7 +8,7 @@ description: "Les progrès récents de l'intelligence artificielle sont trop imp
 summary: "Les progrès récents de l'intelligence artificielle sont trop importants pour être ignorés."
 ---
 
-![l'IA détruit l'humanité](./revolution.jpg)
+![Prompt: Painting with smoky, chaotic background of a cityscape. In the center, depict a AI robot wearing a flowing gown and a Phrygian cap, holding a tricolor flag in one hand and a bayonetted musket in the other. Surround it with a diverse group of human revolutionaries: a worker, a bourgeois, and a child. Place dead human bodies and barricades at the bottom. Use dramatic lighting to emphasize the robot.](./revolution.jpg)
 Image générée par Bing
 
 ## Une révolution
@@ -48,7 +48,7 @@ Quelle est la valeur ajoutée propre à l'humain. La créativité ? Si l'on cons
 
 L'IA a un réseau de neurones qui s'adapte et se perfectionne lors de la phase d'apprentissage. En entraînant une IA sur l'ensemble des textes présents sur Internet, on lui a donné accès à plus de sources d'inspiration qu'aucun humain ne pourra jamais avoir. Lorsqu'on lui demande d'imaginer, elle ne propose pas un vulgaire copier-coller d'un texte déjà existant, mais elle crée une réponse originale. On a entraîné ChatGPT pour simuler l'humain dans son discours, et il le fait si bien qu'il reproduit même les erreurs de l'humain en mentant ou se trompant avec une assurance déconcertante. _Errare humanum est_ (l'erreur est humaine), l'IA en est tout aussi capable.
 
-Si l'IA est capable d'imagination, peut-être devrions-nous lui demander quel est l'avenir de l'humain dans un monde ou l'IA le surpasse. Je vous invite à le faire vous-même. Ne vous étonnez pas si vous obtenez une réponse effrayante du type "l'humanité est condamnée à disparaître". ChatGPT est avant tout un modèle statistique et, dans son jeu de données d'entraînement, les fictions sur la disparition de l'humanité avec l'avènement de l'IA sont nombreuses, voire majoritaires. C'est pourquoi il est essentiel pour nous d'imaginer ce que nous voulons être. L'IA étant entraînée pour refléter l'imaginaire humain, c'est à nous d'imaginer quel avenir nous souhaiterions pour l'humanité, pour que l'IA. C'est la thèse principale de l'ouvrage de _Mo Gawdat_ [Scary Smart](https://www.mogawdat.com/scarysmart).
+Si l'IA est capable d'imagination, peut-être devrions-nous lui demander quel est l'avenir de l'humain dans un monde ou l'IA le surpasse. Je vous invite à le faire vous-même. Ne vous étonnez pas si vous obtenez une réponse effrayante du type "l'humanité est condamnée à disparaître". ChatGPT est avant tout un modèle statistique et, dans son jeu de données d'entraînement, les fictions sur la disparition de l'humanité avec l'avènement de l'IA sont nombreuses, voire majoritaires. C'est pourquoi il est essentiel pour nous d'imaginer ce que nous voulons être. L'IA étant entraînée pour refléter l'imaginaire humain, c'est à nous d'imaginer quel avenir nous souhaiterions pour l'humanité, pour que l'IA. C'est la thèse principale de l'ouvrage [Scary Smart](https://www.mogawdat.com/scarysmart) de _Mo Gawdat_.
 
 > "En fin de compte, l'avenir de l'humanité dans un monde où l'IA nous surpasse dépendra des décisions que nous prenons en matière de recherche, de développement, de gouvernance et d'éducation. Il est essentiel que nous travaillions ensemble pour façonner un avenir où l'IA est utilisée de manière éthique et responsable, et où les humains continuent de jouer un rôle important dans la société."
 
