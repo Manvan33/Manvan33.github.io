@@ -5,6 +5,7 @@ draft: false
 tags: ["IA"]
 keywords: ["IA", "ChatGPT", "GitHub Copilot", "GPT4", "OpenAI", "Microsoft", "humanité"]
 description: "Les progrès récents de l'intelligence artificielle sont trop importants pour être ignorés."
+summary: "Les progrès récents de l'intelligence artificielle sont trop importants pour être ignorés."
 ---
 
 
