@@ -1,7 +1,7 @@
 ---
 title: "L'aube d'une révolution"
 date: 2023-03-29T00:33:44+01:00
-draft: true
+draft: false
 ---
 ## Une révolution
 __juin 2021 :__ je découvre l'annonce de GitHub Copilot par Microsoft. Cet assistant innovant est capable d'analyser et de comprendre le code informatique qu'on écirt et de l'écrire avec nous, voire à notre place. J'ai senti que l'intelligence artificielle allait enfin m'intéresser. Ce copilote est depuis devenu mon binôme dans la majorité du code que j'écris. Il mériterait d'être crédité en co-auteur de mon GitHub.
