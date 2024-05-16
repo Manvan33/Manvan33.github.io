@@ -13,8 +13,9 @@ summary: "Non, ce n'est pas une blague, et je n'ai même pas eu à passer une ce
 ## Mon utilisation du cloud
 
 La tendance actuelle semble inciter à tout transformer en conteneurs (voire fonctions) pour avoir une application super flexible, scalable et déployée automatiquement. Je dois avouer que malgré mon intérêt pour ces technologies, mon site web est hébergé de manière très classique, sur une VM. Il y a deux raisons principales à cela :
+
 - Héberger un site web quasiment statique, ça ne demande que très peu de puissance de calcul. Et, vu la charge qu'il supporte (2 visites par jour +/- quelques crawlers perdus sur la toile) je n'ai pas besoin que mon déploiement soit mis à l'échelle automatiquement.
-- Je veux que le coût mensuel de mon site web soit constant (ou au moins prévisible). Or, n'ayant pas (encore) de certification GCP, AWS ou Azure, je n'aurais pas la prétention de réussir à prévoir ma facture cloud sur ces plateformes. 
+- Je veux que le coût mensuel de mon site web soit constant (ou au moins prévisible). Or, n'ayant pas (encore) de certification GCP, AWS ou Azure, je n'aurais pas la prétention de réussir à prévoir ma facture cloud sur ces plateformes.
 
 J'ai donc cherché quel fournisseur cloud proposait la VM la moins chère possible, facturée au mois.
 
@@ -42,7 +43,7 @@ Je ne paie donc plus que 50 centimes par mois pour mon instance Stardust, et je 
 
 ## Les inconvénients
 
-Cloudflare par sa multitude de services efficaces, souvent gratuits et relativement simples d'utilisation, a acquis une part de marché très importante parmi les CDN (~80%). D'un point de vue technique, je trouve leur offre très intéressante, mais je suis gêné par leur position domainte. Qu'une société privée détienne autant de pouvoir sur Internet n'est pas une bonne chose selon moi. Lorsque vous pouvez vous passer de leur service, privilégiez [une alternative européenne](https://european-alternatives.eu/alternative-to/cloudflare). 
+Cloudflare par sa multitude de services efficaces, souvent gratuits et relativement simples d'utilisation, a acquis une part de marché très importante parmi les CDN (~80%). D'un point de vue technique, je trouve leur offre très intéressante, mais je suis gêné par leur position domainte. Qu'une société privée détienne autant de pouvoir sur Internet n'est pas une bonne chose selon moi. Lorsque vous pouvez vous passer de leur service, privilégiez [une alternative européenne](https://european-alternatives.eu/alternative-to/cloudflare).
 
 Je publierai un article sur la solution que j'ai trouvée pour me passer de CloudFlare, dès que je l'aurais mise en place et éprouvée.
 
