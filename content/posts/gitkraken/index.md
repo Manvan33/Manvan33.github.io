@@ -108,7 +108,7 @@ Vous êtes désormais authentifié à votre compte GitLab sur GitKraken, vous po
 
 ![clone depuis une URL](./gitkraken-images/gitK_cloneUrl.png)
 
-### 2.2 Une interface graphique pour Git.
+### 2.2 Une interface graphique pour Git
 
 Une fois que vous avez cloné votre dépôt, GitKraken vous propose de l'ouvrir, suivez son conseil :
 
@@ -120,7 +120,6 @@ __Cette dernière est divisée en 3 parties :__
 * Au centre, vous avez l'__arborescence de tous les commits__ effectués sur le dépot
 * À droite, vous avez les __informations à propos du commit__ que vous avez sélectionné au centre (en cliquant dessus). Notamment, la description du commit, ainsi que les modifications effectuées.
 * À gauche, vous avez la __liste des branches du dépot__, séparées en deux catégories : les branches locales et les branches distantes ("Remote").
-
 
 #### 2.2.1 Les branches
 
@@ -180,7 +179,7 @@ Si le nom de la branche pré-rempli est correct, vous pouvez simplement cliquer 
 
 Fusionner des branches est effectué par l'outil `git merge`, et permet de __fusionner les modifications de plusieurs branches en une seule__. GitKraken va nous faciliter grandement la tâche avec une interface assez pratique.
 
-Pour initier la fusion, __glissez-déposez__ la branche (locale) dont vous voulez récupérer les modifications au dessus de la branche (locale) qui contiendra le résultat du _merge_.
+Pour initier la fusion, __glissez-déposez__ la branche (locale) dont vous voulez récupérer les modifications au dessus de la branche (locale) qui contiendra le résultat du *merge*.
 
 * Si vous avez de la chance, c'est-à-dire que vos branches ne contiennent pas de modifications sur les mêmes fichiers, le merge s'effectue automatiquement, sans complications. Vous n'avez qu'à *push* pour le finaliser.
 * Sinon, GitKraken va vous afficher un vilain message d'erreur "Merge Failed". Mais ne vous inquiétez pas, cela se résoud facilement dans la majorité des cas.
